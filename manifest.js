@@ -1,7 +1,7 @@
 module.exports = {
   identifier: "getting-started",
   name: "Getting Started",
-  baseUrl: process.env.BASE_URL,
+  baseUrl: "https://hearttmy.github.io/",
   logo: "/logo.svg",
   authentication: {
     type: "none",

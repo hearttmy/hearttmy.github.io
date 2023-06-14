@@ -1,8 +1,16 @@
 <script setup>
 console.log('AP')
-console.log(window.AP)
-window.AP.getContext(function(contextData) {
+console.log(AP)
+AP.getContext(function(contextData) {
   console.log("Object: context", contextData);
+});
+
+AP.editor.getString(function(stringData) {
+    console.log("Object: source string", stringData);
+});
+
+AP.editor.getTranslations(function(translationsData) {
+    console.log("Array: translation objects", translationsData);
 });
 </script>
 

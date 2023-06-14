@@ -1,0 +1,25 @@
+{
+  "identifier": "yotta-crowdin-addon",
+  "name": "yotta-crowdin-addon",
+  "description": "Application description",
+  "logo": "/logo.png",
+  "baseUrl": "https://hearttmy.github.io",
+  "scopes": [
+    "project"
+  ],
+  "modules": {
+    "editor-right-panel": [
+      {
+        "key": "your-module-key123",
+        "name": "test",
+        "description": "Module description",
+        "logo": "/logo.png",
+        "url": "/rightpanel",
+        "environments": [
+          "crowdin",
+          "crowdin-enterprise"
+        ]
+      }
+    ]
+  }
+}

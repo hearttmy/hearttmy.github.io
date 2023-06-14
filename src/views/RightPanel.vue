@@ -1,4 +1,7 @@
 <script setup>
+  AP.getContext(function(contextData) {
+    console.log("Object: context", contextData);
+  });
 </script>
 
 <template>

@@ -15,6 +15,9 @@
         "description": "Module description",
         "logo": "/logo.png",
         "url": "/",
+        "modes": [
+          "translate"
+        ],
         "environments": [
           "crowdin",
           "crowdin-enterprise"

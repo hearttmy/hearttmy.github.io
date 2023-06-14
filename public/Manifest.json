@@ -18,7 +18,7 @@
         "name": "Yotta Translation",
         "description": "Module description",
         "logo": "/img/logo.png",
-        "url": "/crowdin.html",
+        "url": "/",
         "modes": [
           "translate"
         ],

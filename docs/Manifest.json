@@ -4,6 +4,10 @@
   "description": "Application description",
   "logo": "/logo.png",
   "baseUrl": "https://hearttmy.github.io",
+  "authentication": {
+    "type": "none",
+    "clientId": "your-client-id"
+  },
   "scopes": [
     "project"
   ],

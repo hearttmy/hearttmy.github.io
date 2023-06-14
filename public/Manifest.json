@@ -14,11 +14,11 @@
   "modules": {
     "editor-right-panel": [
       {
-        "key": "Yotta Translation",
+        "key": "Yotta-Translation",
         "name": "Yotta Translation",
         "description": "Module description",
         "logo": "/img/logo.png",
-        "url": "/",
+        "url": "/crowdin.html",
         "modes": [
           "translate"
         ],

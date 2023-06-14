@@ -2,8 +2,8 @@
   "identifier": "yotta-crowdin-addon",
   "name": "yotta-crowdin-addon",
   "description": "Application description",
-  "logo": "/logo.png",
-  "baseUrl": "https://hearttmy.github.io",
+  "logo": "/img/logo.png",
+  "baseUrl": "http://test-eastblue.xinyoudi.com/home",
   "authentication": {
     "type": "none",
     "clientId": ""
@@ -14,11 +14,11 @@
   "modules": {
     "editor-right-panel": [
       {
-        "key": "your-module-key123",
-        "name": "test",
+        "key": "Yotta Translation",
+        "name": "Yotta Translation",
         "description": "Module description",
-        "logo": "/logo.png",
-        "url": "/",
+        "logo": "/img/logo.png",
+        "url": "/crowdin.html",
         "modes": [
           "translate"
         ],

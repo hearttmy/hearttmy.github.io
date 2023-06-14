@@ -14,7 +14,7 @@
         "name": "test",
         "description": "Module description",
         "logo": "/logo.png",
-        "url": "/rightpanel",
+        "url": "/",
         "environments": [
           "crowdin",
           "crowdin-enterprise"

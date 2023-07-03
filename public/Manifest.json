@@ -6,7 +6,7 @@
   "baseUrl": "https://pre-eastblue.xinyoudi.com/home",
   "authentication": {
     "type": "none",
-    "clientId": "t7KILyWDJ1A6oCj7p1Oh"
+    "clientId": ""
   },
   "scopes": [
     "project"

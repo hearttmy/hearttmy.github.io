@@ -3,7 +3,7 @@
   "name": "yotta-crowdin-addon",
   "description": "Application description",
   "logo": "/img/logo.png",
-  "baseUrl": "https://192.168.28.69:8080/home",
+  "baseUrl": "https://test-eastblue.xinyoudi.com/home",
   "authentication": {
     "type": "none",
     "clientId": ""
@@ -17,7 +17,7 @@
         "key": "Yotta-Translation",
         "name": "Yotta Translation",
         "description": "Module description",
-        "logo": "/crowdinImg/logo.png",
+        "logo": "/img/crowdin_logo.png",
         "url": "/crowdin.html",
         "modes": [
           "translate"

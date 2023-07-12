@@ -27,6 +27,14 @@
           "crowdin-enterprise"
         ]
       }
+    ],
+    "project-integrations": [
+      {
+        "key": "test",
+        "name": "testServe",
+        "logo": "/home/img/logo.png",
+        "url": "/home/crowdin.html"
+      }
     ]
   }
 }

@@ -32,8 +32,8 @@
       {
         "key": "test",
         "name": "testServe",
-        "logo": "/home/img/logo.png",
-        "url": "/home/crowdin.html"
+        "logo": "/img/logo.png",
+        "url": "/crowdin.html"
       }
     ]
   }

@@ -18,7 +18,7 @@
         "name": "Yotta Translation",
         "description": "Module description",
         "logo": "/img/crowdin_logo.png",
-        "url": "/crowdin.html",
+        "url": "/crowdin/right-panel",
         "modes": [
           "translate"
         ],
@@ -32,8 +32,8 @@
       {
         "key": "test",
         "name": "testServe",
-        "logo": "/img/logo.png",
-        "url": "/crowdin.html"
+        "logo": "/img/crowdin_logo.png",
+        "url": "/crowdin/integration"
       }
     ]
   }

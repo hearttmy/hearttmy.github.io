@@ -1,6 +1,6 @@
 {
-  "identifier": "yotta-crowdin-addon",
-  "name": "yotta-crowdin-addon",
+  "identifier": "yotta-crowdin-addon-test",
+  "name": "yotta-crowdin-addon-test",
   "description": "Application description",
   "logo": "/img/logo.png",
   "baseUrl": "https://192.168.28.69:8080/home",
@@ -32,7 +32,7 @@
       {
         "key": "test",
         "name": "testServe",
-        "logo": "/img/crowdin_logo.png",
+        "logo": "/img/crowdin_integration.png",
         "url": "/crowdin/integration"
       }
     ]

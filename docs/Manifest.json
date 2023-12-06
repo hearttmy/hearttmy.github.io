@@ -12,9 +12,9 @@
     "project"
   ],
   "modules": {
-    "editor-right-panel1": [
+    "editor-right-panel": [
       {
-        "key": "Yotta-Translation",
+        "key": "Yotta-Translation1",
         "name": "Yotta Translation",
         "description": "Module description",
         "logo": "/img/crowdin_logo.png",
@@ -26,11 +26,9 @@
           "crowdin",
           "crowdin-enterprise"
         ]
-      }
-    ],
-    "editor-right-panel2": [
+      },
       {
-        "key": "Yotta-Translation",
+        "key": "Yotta-Translation2",
         "name": "Yotta Translation",
         "description": "Module description",
         "logo": "/img/crowdin_logo.png",
@@ -42,11 +40,9 @@
           "crowdin",
           "crowdin-enterprise"
         ]
-      }
-    ],
-    "editor-right-panel3": [
+      },
       {
-        "key": "Yotta-Translation",
+        "key": "Yotta-Translation3",
         "name": "Yotta Translation",
         "description": "Module description",
         "logo": "/img/crowdin_logo.png",
@@ -58,11 +54,9 @@
           "crowdin",
           "crowdin-enterprise"
         ]
-      }
-    ],
-    "editor-right-panel4": [
+      },
       {
-        "key": "Yotta-Translation",
+        "key": "Yotta-Translation4",
         "name": "Yotta Translation",
         "description": "Module description",
         "logo": "/img/crowdin_logo.png",

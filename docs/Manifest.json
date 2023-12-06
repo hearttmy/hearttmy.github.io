@@ -12,13 +12,61 @@
     "project"
   ],
   "modules": {
-    "editor-right-panel": [
+    "editor-right-panel1": [
       {
         "key": "Yotta-Translation",
         "name": "Yotta Translation",
         "description": "Module description",
         "logo": "/img/crowdin_logo.png",
-        "url": "/crowdin/right-panel",
+        "url": "/crowdin/term",
+        "modes": [
+          "translate"
+        ],
+        "environments": [
+          "crowdin",
+          "crowdin-enterprise"
+        ]
+      }
+    ],
+    "editor-right-panel2": [
+      {
+        "key": "Yotta-Translation",
+        "name": "Yotta Translation",
+        "description": "Module description",
+        "logo": "/img/crowdin_logo.png",
+        "url": "/crowdin/translate",
+        "modes": [
+          "translate"
+        ],
+        "environments": [
+          "crowdin",
+          "crowdin-enterprise"
+        ]
+      }
+    ],
+    "editor-right-panel3": [
+      {
+        "key": "Yotta-Translation",
+        "name": "Yotta Translation",
+        "description": "Module description",
+        "logo": "/img/crowdin_logo.png",
+        "url": "/crowdin/review",
+        "modes": [
+          "translate"
+        ],
+        "environments": [
+          "crowdin",
+          "crowdin-enterprise"
+        ]
+      }
+    ],
+    "editor-right-panel4": [
+      {
+        "key": "Yotta-Translation",
+        "name": "Yotta Translation",
+        "description": "Module description",
+        "logo": "/img/crowdin_logo.png",
+        "url": "/crowdin/stringdiff",
         "modes": [
           "translate"
         ],

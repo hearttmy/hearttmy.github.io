@@ -14,23 +14,9 @@
   "modules": {
     "editor-right-panel": [
       {
-        "key": "Yotta-Translation1",
-        "name": "Yotta Translation",
-        "description": "Module description",
-        "logo": "/img/crowdin_logo.png",
-        "url": "/crowdin/right-panel/term",
-        "modes": [
-          "translate"
-        ],
-        "environments": [
-          "crowdin",
-          "crowdin-enterprise"
-        ]
-      },
-      {
-        "key": "Yotta-Translation2",
-        "name": "Yotta Translation",
-        "description": "Module description",
+        "key": "YottaRightPanel-Translation",
+        "name": "YottaRightPanel Translation",
+        "description": "机翻插件",
         "logo": "/img/crowdin_logo.png",
         "url": "/crowdin/right-panel/translate",
         "modes": [
@@ -42,9 +28,9 @@
         ]
       },
       {
-        "key": "Yotta-Translation3",
-        "name": "Yotta Translation",
-        "description": "Module description",
+        "key": "YottaRightPanel-Review",
+        "name": "YottaRightPanel Review",
+        "description": "评分插件",
         "logo": "/img/crowdin_logo.png",
         "url": "/crowdin/right-panel/review",
         "modes": [
@@ -56,10 +42,24 @@
         ]
       },
       {
-        "key": "Yotta-Translation4",
-        "name": "Yotta Translation",
-        "description": "Module description",
-        "logo": "/img/crowdin_logo.png",
+        "key": "YottaRightPanel-Term",
+        "name": "YottaRightPanel Term",
+        "description": "术语匹配插件",
+        "logo": "/img/crowdin_term_logo.png",
+        "url": "/crowdin/right-panel/term",
+        "modes": [
+          "translate"
+        ],
+        "environments": [
+          "crowdin",
+          "crowdin-enterprise"
+        ]
+      },
+      {
+        "key": "YottaRightPanel-StringDiff",
+        "name": "YottaRightPanel StringDiff",
+        "description": "原文比对插件",
+        "logo": "/img/crowdin_stringdiff_logo.png",
         "url": "/crowdin/right-panel/stringdiff",
         "modes": [
           "translate"

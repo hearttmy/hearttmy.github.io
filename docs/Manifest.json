@@ -18,7 +18,7 @@
         "name": "Yotta Translation",
         "description": "Module description",
         "logo": "/img/crowdin_logo.png",
-        "url": "/crowdin/term",
+        "url": "/crowdin/right-panel/term",
         "modes": [
           "translate"
         ],
@@ -32,7 +32,7 @@
         "name": "Yotta Translation",
         "description": "Module description",
         "logo": "/img/crowdin_logo.png",
-        "url": "/crowdin/translate",
+        "url": "/crowdin/right-panel/translate",
         "modes": [
           "translate"
         ],
@@ -46,7 +46,7 @@
         "name": "Yotta Translation",
         "description": "Module description",
         "logo": "/img/crowdin_logo.png",
-        "url": "/crowdin/review",
+        "url": "/crowdin/right-panel/review",
         "modes": [
           "translate"
         ],
@@ -60,7 +60,7 @@
         "name": "Yotta Translation",
         "description": "Module description",
         "logo": "/img/crowdin_logo.png",
-        "url": "/crowdin/stringdiff",
+        "url": "/crowdin/right-panel/stringdiff",
         "modes": [
           "translate"
         ],

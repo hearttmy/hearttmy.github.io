@@ -15,7 +15,7 @@
     "editor-right-panel": [
       {
         "key": "YottaRightPanel-Translation",
-        "name": "YottaRightPanel Translation",
+        "name": "Multiple Machine Transaltions",
         "description": "机翻插件",
         "logo": "/img/crowdin_translate_logo.png",
         "url": "/crowdin/right-panel/translate",
@@ -29,7 +29,7 @@
       },
       {
         "key": "YottaRightPanel-Review",
-        "name": "YottaRightPanel Review",
+        "name": "AI Pre-transaltion Review",
         "description": "评分插件",
         "logo": "/img/crowdin_review_logo.png",
         "url": "/crowdin/right-panel/review",

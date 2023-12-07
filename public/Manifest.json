@@ -17,7 +17,7 @@
         "key": "YottaRightPanel-Translation",
         "name": "YottaRightPanel Translation",
         "description": "机翻插件",
-        "logo": "/img/crowdin_logo.png",
+        "logo": "/img/crowdin_translate_logo.png",
         "url": "/crowdin/right-panel/translate",
         "modes": [
           "translate"
@@ -31,7 +31,7 @@
         "key": "YottaRightPanel-Review",
         "name": "YottaRightPanel Review",
         "description": "评分插件",
-        "logo": "/img/crowdin_logo.png",
+        "logo": "/img/crowdin_review_logo.png",
         "url": "/crowdin/right-panel/review",
         "modes": [
           "translate"
@@ -43,7 +43,7 @@
       },
       {
         "key": "YottaRightPanel-Term",
-        "name": "YottaRightPanel Term",
+        "name": "STRING TERMS",
         "description": "术语匹配插件",
         "logo": "/img/crowdin_term_logo.png",
         "url": "/crowdin/right-panel/term",
@@ -57,7 +57,7 @@
       },
       {
         "key": "YottaRightPanel-StringDiff",
-        "name": "YottaRightPanel StringDiff",
+        "name": "SOURCE STRNIG DIFF CHECKER (KEY UNCHANGE)",
         "description": "原文比对插件",
         "logo": "/img/crowdin_stringdiff_logo.png",
         "url": "/crowdin/right-panel/stringdiff",

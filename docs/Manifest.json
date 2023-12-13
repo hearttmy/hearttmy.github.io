@@ -57,7 +57,7 @@
       },
       {
         "key": "YottaRightPanel-StringDiff",
-        "name": "SOURCE STRNIG DIFF CHECKER (KEY UNCHANGE)",
+        "name": "STRNIG DIFF CHECKER (KEY UNCHANGE)",
         "description": "原文比对插件",
         "logo": "/img/crowdin_stringdiff_logo.png",
         "url": "/crowdin/right-panel/stringdiff",

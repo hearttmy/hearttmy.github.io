@@ -2,8 +2,8 @@
   "identifier": "yotta-crowdin-addon-test",
   "name": "yotta-crowdin-addon-test",
   "description": "Application description",
-  "logo": "/img/logo.png",
-  "baseUrl": "https://192.168.28.69:8080/home",
+  "logo": "/home/img/logo.png",
+  "baseUrl": "https://192.168.28.69:8080",
   "authentication": {
     "type": "none",
     "clientId": ""
@@ -17,8 +17,8 @@
         "key": "YottaRightPanel-Translation",
         "name": "Multiple Machine Transaltions",
         "description": "机翻插件",
-        "logo": "/img/crowdin_translate_logo.png",
-        "url": "/crowdin/right-panel/translate",
+        "logo": "/home/img/crowdin_translate_logo.png",
+        "url": "/home/crowdin/right-panel/translate",
         "modes": [
           "translate"
         ],
@@ -31,8 +31,8 @@
         "key": "YottaRightPanel-Review",
         "name": "AI Pre-transaltion Review",
         "description": "评分插件",
-        "logo": "/img/crowdin_review_logo.png",
-        "url": "/crowdin/right-panel/review",
+        "logo": "/home/img/crowdin_review_logo.png",
+        "url": "/home/crowdin/right-panel/review",
         "modes": [
           "translate"
         ],
@@ -45,8 +45,8 @@
         "key": "YottaRightPanel-Term",
         "name": "STRING TERMS",
         "description": "术语匹配插件",
-        "logo": "/img/crowdin_term_logo.png",
-        "url": "/crowdin/right-panel/term",
+        "logo": "/home/img/crowdin_term_logo.png",
+        "url": "/home/crowdin/right-panel/term",
         "modes": [
           "translate"
         ],
@@ -59,8 +59,8 @@
         "key": "YottaRightPanel-StringDiff",
         "name": "STRING DIFF CHECKER (KEY UNCHANGE)",
         "description": "原文比对插件",
-        "logo": "/img/crowdin_stringdiff_logo.png",
-        "url": "/crowdin/right-panel/stringdiff",
+        "logo": "/home/img/crowdin_stringdiff_logo.png",
+        "url": "/home/crowdin/right-panel/stringdiff",
         "modes": [
           "translate"
         ],
@@ -74,8 +74,8 @@
       {
         "key": "test",
         "name": "testServe",
-        "logo": "/img/crowdin_integration.png",
-        "url": "/crowdin/integration"
+        "logo": "/home/img/crowdin_integration.png",
+        "url": "/home/crowdin/integration"
       }
     ]
   }

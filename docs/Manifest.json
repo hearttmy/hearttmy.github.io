@@ -6,8 +6,8 @@
   "baseUrl": "https://192.168.28.69:8080",
   "authentication": {
     "type": "none",
-    "clientId": ""
-  },
+    "clientId": "hearttmy"
+},
   "scopes": [
     "project"
   ],

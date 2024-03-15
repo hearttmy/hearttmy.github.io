@@ -5,8 +5,7 @@
   "logo": "/home/img/logo.png",
   "baseUrl": "https://eastblue.xinyoudi.com",
   "authentication": {
-    "type": "authorization_code",
-    "clientId": "t7KILyWDJ1A6oCj7p1Oh"
+    "type": "none"
 },
   "scopes": [
     "project"
@@ -61,6 +60,34 @@
         "description": "原文比对插件",
         "logo": "/home/img/crowdin_stringdiff_logo.png",
         "url": "/home/crowdin/right-panel/stringdiff",
+        "modes": [
+          "translate"
+        ],
+        "environments": [
+          "crowdin",
+          "crowdin-enterprise"
+        ]
+      },
+      {
+        "key": "YottaRightPanel-PreviewPanel",
+        "name": "Preview Panel",
+        "description": "预览插件",
+        "logo": "/home/img/crowdin_translate_logo.png",
+        "url": "/home/crowdin/right-panel/preview",
+        "modes": [
+          "translate"
+        ],
+        "environments": [
+          "crowdin",
+          "crowdin-enterprise"
+        ]
+      },
+      {
+        "key": "YottaRightPanel-PresetFilter",
+        "name": "Preset Filter",
+        "description": "预设过滤器",
+        "logo": "/home/img/crowdin_translate_logo.png",
+        "url": "/home/crowdin/right-panel/filter",
         "modes": [
           "translate"
         ],

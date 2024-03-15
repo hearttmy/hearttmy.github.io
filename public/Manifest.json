@@ -5,7 +5,7 @@
   "logo": "/home/img/logo.png",
   "baseUrl": "https://192.168.28.69:8080",
   "authentication": {
-    "type": "none",
+    "type": "crowdin_app",
     "clientId": "hearttmy"
 },
   "scopes": [

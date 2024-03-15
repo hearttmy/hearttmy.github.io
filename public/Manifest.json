@@ -3,7 +3,7 @@
   "name": "yotta-crowdin-addon-test",
   "description": "Application description",
   "logo": "/home/img/logo.png",
-  "baseUrl": "https://test-eastblue.xinyoudi.com",
+  "baseUrl": "https://eastblue.xinyoudi.com",
   "authentication": {
     "type": "authorization_code",
     "clientId": "t7KILyWDJ1A6oCj7p1Oh"

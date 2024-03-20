@@ -3,7 +3,7 @@
   "name": "yotta-crowdin-addon-test",
   "description": "Application description",
   "logo": "/home/img/logo.png",
-  "baseUrl": "https://eastblue.xinyoudi.com",
+  "baseUrl": "https://192.168.28.69:8080",
   "authentication": {
     "type": "none"
 },
@@ -72,7 +72,7 @@
         "key": "YottaRightPanel-PreviewPanel",
         "name": "Preview Panel",
         "description": "预览插件",
-        "logo": "/home/img/crowdin_translate_logo.png",
+        "logo": "/home/img/crowdin_preview_logo.png",
         "url": "/home/crowdin/right-panel/preview",
         "modes": [
           "translate"
@@ -86,7 +86,7 @@
         "key": "YottaRightPanel-PresetFilter",
         "name": "Preset Filter",
         "description": "预设过滤器",
-        "logo": "/home/img/crowdin_translate_logo.png",
+        "logo": "/home/img/crowdin_filter_logo.png",
         "url": "/home/crowdin/right-panel/filter",
         "modes": [
           "translate"

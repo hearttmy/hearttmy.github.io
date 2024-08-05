@@ -6,25 +6,27 @@
   "baseUrl": "https://192.168.28.69:8080",
   "authentication": {
     "type": "none"
-},
-  "scopes": [
-    "project"
-  ],
+  },
+  "scopes": ["project"],
   "modules": {
     "editor-right-panel": [
+      {
+        "key": "YottaRightPanel-Setting",
+        "name": "Right Panel Tool Settings",
+        "description": "右边栏设置",
+        "logo": "/home/img/crowdin_setting_logo.png",
+        "url": "/home/crowdin/right-panel/setting",
+        "modes": ["translate"],
+        "environments": ["crowdin", "crowdin-enterprise"]
+      },
       {
         "key": "YottaRightPanel-Translation",
         "name": "Multiple Machine Transaltions",
         "description": "机翻插件",
         "logo": "/home/img/crowdin_translate_logo.png",
         "url": "/home/crowdin/right-panel/translate",
-        "modes": [
-          "translate"
-        ],
-        "environments": [
-          "crowdin",
-          "crowdin-enterprise"
-        ]
+        "modes": ["translate"],
+        "environments": ["crowdin", "crowdin-enterprise"]
       },
       {
         "key": "YottaRightPanel-Review",
@@ -32,13 +34,8 @@
         "description": "评分插件",
         "logo": "/home/img/crowdin_review_logo.png",
         "url": "/home/crowdin/right-panel/review",
-        "modes": [
-          "translate"
-        ],
-        "environments": [
-          "crowdin",
-          "crowdin-enterprise"
-        ]
+        "modes": ["translate"],
+        "environments": ["crowdin", "crowdin-enterprise"]
       },
       {
         "key": "YottaRightPanel-Term",
@@ -46,55 +43,44 @@
         "description": "术语匹配插件",
         "logo": "/home/img/crowdin_term_logo.png",
         "url": "/home/crowdin/right-panel/term",
-        "modes": [
-          "translate"
-        ],
-        "environments": [
-          "crowdin",
-          "crowdin-enterprise"
-        ]
+        "modes": ["translate"],
+        "environments": ["crowdin", "crowdin-enterprise"]
       },
       {
         "key": "YottaRightPanel-StringDiff",
-        "name": "STRING DIFF CHECKER (KEY UNCHANGE)",
+        "name": "STRING CHECKER (KEY UNCHANGED)",
         "description": "原文比对插件",
         "logo": "/home/img/crowdin_stringdiff_logo.png",
         "url": "/home/crowdin/right-panel/stringdiff",
-        "modes": [
-          "translate"
-        ],
-        "environments": [
-          "crowdin",
-          "crowdin-enterprise"
-        ]
+        "modes": ["translate"],
+        "environments": ["crowdin", "crowdin-enterprise"]
       },
       {
-        "key": "YottaRightPanel-PreviewPanel",
-        "name": "Preview Panel",
+        "key": "YottaRightPanel-PreviewUI",
+        "name": "Preview UI",
         "description": "预览插件",
         "logo": "/home/img/crowdin_preview_logo.png",
         "url": "/home/crowdin/right-panel/preview",
-        "modes": [
-          "translate"
-        ],
-        "environments": [
-          "crowdin",
-          "crowdin-enterprise"
-        ]
+        "modes": ["translate"],
+        "environments": ["crowdin", "crowdin-enterprise"]
       },
       {
         "key": "YottaRightPanel-PresetFilter",
-        "name": "Preset Filter",
+        "name": "Pre-set Filter",
         "description": "预设过滤器",
         "logo": "/home/img/crowdin_filter_logo.png",
         "url": "/home/crowdin/right-panel/filter",
-        "modes": [
-          "translate"
-        ],
-        "environments": [
-          "crowdin",
-          "crowdin-enterprise"
-        ]
+        "modes": ["translate"],
+        "environments": ["crowdin", "crowdin-enterprise"]
+      },
+      {
+        "key": "YottaRightPanel-CompareText",
+        "name": "Compare Text",
+        "description": "自定义文本对比",
+        "logo": "/home/img/crowdin_compare_logo.png",
+        "url": "/home/crowdin/right-panel/compare",
+        "modes": ["translate"],
+        "environments": ["crowdin", "crowdin-enterprise"]
       }
     ],
     "project-integrations": [

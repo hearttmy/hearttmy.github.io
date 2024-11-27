@@ -81,6 +81,15 @@
         "url": "/home/crowdin/right-panel/compare",
         "modes": ["translate"],
         "environments": ["crowdin", "crowdin-enterprise"]
+      },
+      {
+        "key": "YottaRightPanel-DeleteTM",
+        "name": "Delete TM",
+        "description": "TM管理",
+        "logo": "/home/img/crowdin_tm_delete_logo.png",
+        "url": "/home/crowdin/right-panel/tm",
+        "modes": ["translate"],
+        "environments": ["crowdin", "crowdin-enterprise"]
       }
     ],
     "project-integrations": [
